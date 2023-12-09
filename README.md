@@ -10,6 +10,8 @@
 
 ## Screenshots
 
-![alt text](https://github.com/RMollinedo/chrome-extension-react/blob/main/screenshot1.png)
+![alt text](https://github.com/RMollinedo/chrome-extension-reactblob/main/screenshot1.png)
+
 ![alt text](https://github.com/RMollinedo/chrome-extension-react/blob/main/screenshot2.png)
+
 ![alt text](https://github.com/RMollinedo/chrome-extension-react/blob/main/screenshot3.png)
